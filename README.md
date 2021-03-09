@@ -15,7 +15,7 @@ avalia se o número indicado pelo usuário é:
 3. Execute o main.py do projeto
 
 ```console
-git@github.com:zeny-brus/FizzBuzzer.git FizzBuzz
+git clone git@github.com:zeny-brus/FizzBuzzer.git FizzBuzz
 cd FizzBuzz
 python3 main.py
 ```
